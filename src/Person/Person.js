@@ -2,6 +2,8 @@ import React from 'react'
 import './Person.css'
 
 const person =(param)=>{
+    // component yang berupa fungsi biasnya dinamakan presentation
+    // dan dinamakan stateless karena tidak mengimplemntasi state karena state hnnya bisa ditaruh di class turununan component
     // console.log(param)
     return (
         // className itu dari fungsi react untuk memanggil css class nya
