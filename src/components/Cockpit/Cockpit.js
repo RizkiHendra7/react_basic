@@ -1,5 +1,5 @@
 import React from 'react'; 
-import classes from './Cockpit.Cockpit.css'
+import classes from './Cockpit.css'
 
 const cockpit =(param) => {
   //buta dinamic style 
